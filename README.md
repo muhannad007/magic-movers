@@ -17,8 +17,10 @@ Each Magic Item they carry has:
 - Download zip file
 - Extract files in a folder
 - Open cmd in that folder
-- Run: $ npm install
-- Run: $ npm run dev
+- Run:  
+  $ npm install
+- Run:  
+  $ npm run dev
 it will run on localhost port 3000 so the uri would be: localhost:3000/
 
 ## Endpoints  
