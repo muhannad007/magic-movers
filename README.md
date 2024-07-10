@@ -5,20 +5,20 @@ Welcome to Magic Transporters, the future of moving things easily. These super c
 
 ## Overview  
 In the world of Magic Transporters, there are special people known as Magic Movers. They use nifty gadgets to move important things. Fueled by virtual magic, these Movers go on quick missions to carry items around.  
-A Magic Mover has:
-• Weight limit (the most they can carry);
-• Energy (their total magic power);
+A Magic Mover has:  
+• Weight limit (the most they can carry);  
+• Energy (their total magic power);  
 • Quest state (what they’re currently doing: resting, loading, on a mission, or done).  
 Each Magic Item they carry has:  
-• Name (what it’s called);
+• Name (what it’s called);  
 • Weight (how much magic power it needs);  
 
 ## How to run this API  
 - Download zip file
 - Extract files in a folder
 - Open cmd in that folder
-- Run: npm install
-- Run: npm run dev
+- Run: $npm install
+- Run: $npm run dev
 it will run on localhost port 3000 so the uri would be: localhost:3000/
 
 ## Endpoints  
