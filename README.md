@@ -20,8 +20,8 @@ Each Magic Item they carry has:
 - Run:  
   $ npm install
 - Run:  
-  $ npm run dev
-it will run on localhost port 3000 so the uri would be: localhost:3000/
+  $ npm run dev  
+it will run on localhost port 3000 so the uri would be: "localhost:3000/"  
 
 ## Endpoints  
 - To add magic movers you can send a post request to: "/add_mover"  the body would be a json containing: {first_name, last_name, email, password, weight_limit, energy, quest_state}
